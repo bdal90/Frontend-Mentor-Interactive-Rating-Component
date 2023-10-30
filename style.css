@@ -15,7 +15,7 @@ body {
 
 /* RATING STATE */
 .container {
-    background: hsl(213, 19%, 18%);
+    background:linear-gradient(hsl(213, 19%, 18%), hsl(213, 17%, 12%));
     height: 400px;
     width: 400px;
     border-radius: 30px;
